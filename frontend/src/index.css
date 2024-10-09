@@ -2,7 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
+@layer base{
 
+}
+
+@layer components{
+    
+}
+
+@layer utilities{
+    .active div{
+        @apply text-lime-700 border-b-lime-700 border-b-[1px] hover:text-lime-700 py-1;
+    }
+}
 
 
