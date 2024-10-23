@@ -1,0 +1,6 @@
+main{
+    background-image: url(../../public/cover.webp);
+    background-size: cover;
+    background-position: center left;
+    min-height: calc(100vh - 76.28px);
+}
