@@ -1,0 +1,884 @@
+[
+    {
+        "id": 1,
+        "name": "LEATHER CROPPED FIT TRENCH COAT",
+        "price": 3890000,
+        "imagePath": "https://static.zara.net/assets/public/9a9c/35f9/748d4919967c/7ec9bc8d550f/05479200800-a1/05479200800-a1.jpg?ts=1729678058432"
+    },
+    {
+        "id": 2,
+        "name": "FAUX LEATHER BIKER JACKET",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/9258/9c1b/da0648c3b70f/08ce4cfdfe2f/03548610800-a1/03548610800-a1.jpg?ts=1729675917321"
+    },
+    {
+        "id": 3,
+        "name": "TEXTURED JACKET",
+        "price": 1090000,
+        "imagePath": "https://static.zara.net/assets/public/f2d3/95bd/fe314a7aa5b1/ea9889f15572/04302457712-a1/04302457712-a1.jpg?ts=1707904550276"
+    },
+    {
+        "id": 4,
+        "name": "FAUX SHEARLING BOMBER JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/ad58/34e0/b93e4195b064/7e87c0cc22d2/08281405802-a1/08281405802-a1.jpg?ts=1705667452729"
+    },
+    {
+        "id": 5,
+        "name": "PACKABLE WINDBREAKER",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/7543/a82f/cf324094aca9/70873735c916/04575400500-a1/04575400500-a1.jpg?ts=1709737100947"
+    },
+    {
+        "id": 6,
+        "name": "100% LINEN JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/5231/a8f9/b8264ba396a0/989b87346059/02634602800-a1/02634602800-a1.jpg?ts=1708518624444"
+    },
+    {
+        "id": 7,
+        "name": "CONTRAST TOPSTITCHING OVERSHIRT",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/8f4d/bf47/290b4b2bbcbc/939978e7707b/06917325620-a1/06917325620-a1.jpg?ts=1709737099043"
+    },
+    {
+        "id": 8,
+        "name": "DENIM JACKET",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/3104/07dd/b1ad446cb438/3d6057fc25ad/01538494800-a1/01538494800-a1.jpg?ts=1709896354648"
+    },
+    {
+        "id": 9,
+        "name": "FAUX SHEARLING OVERSHIRT",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/edb6/3a92/df134c5284ec/0522a21170b9/4000.jpg?ts=1695973405587"
+    },
+    {
+        "id": 10,
+        "name": "EMBROIDERED PATCH JACKET",
+        "price": 1090000,
+        "imagePath": "https://static.zara.net/assets/public/8a53/9173/70524a759756/43a1379016cd/05320345707-a1/05320345707-a1.jpg?ts=1707903449109"
+    },
+    {
+        "id": 11,
+        "name": "100% LINEN JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/3a53/4496/6cf34592995c/df4ee784051b/02634602052-a1/02634602052-a1.jpg?ts=1708940635395"
+    },
+    {
+        "id": 12,
+        "name": "DOUBLE-FACED LEATHER EFFECT JACKET",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/b488/f9b4/6f89410a90d0/d9f24b821b21/08281416660-a1/08281416660-a1.jpg?ts=1729701449565"
+    },
+    {
+        "id": 13,
+        "name": "OVERSIZE FIT JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/5c3f/a377/bcd3400bad44/c8b9483ca069/02668360922-a1/02668360922-a1.jpg?ts=1729672554534"
+    },
+    {
+        "id": 14,
+        "name": "COLOUR BLOCK TECHNICAL JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/d44d/f94a/0bef4d2fad1e/5866ffc9a80a/06318341632-000-a1/06318341632-000-a1.jpg?ts=1729700050942"
+    },
+    {
+        "id": 15,
+        "name": "CHECK OVERSHIRT WITH FAUX SHEARLING",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/a193/e811/0cce405083a9/9b2632537496/01248301800-a1/01248301800-a1.jpg?ts=1729672547541"
+    },
+    {
+        "id": 16,
+        "name": "2-IN-1 BOMBER JACKET",
+        "price": 2190000,
+        "imagePath": "https://static.zara.net/assets/public/7b78/6bb5/a39a4258b3a5/4dd0720aeb91/04391370401-a1/04391370401-a1.jpg?ts=1729698076500"
+    },
+    {
+        "id": 17,
+        "name": "BOXY FIT OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/7fac/82e0/9db04b128688/248da25107e3/07484455505-a1/07484455505-a1.jpg?ts=1727254819511"
+    },
+    {
+        "id": 18,
+        "name": "BOXY FIT OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/947e/1c36/5a614588b35f/db255c5bc541/07484455708-a1/07484455708-a1.jpg?ts=1727256778414"
+    },
+    {
+        "id": 19,
+        "name": "BOXY FIT OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/683d/4760/6fe74c989b59/8c74a0956724/07484453800-a1/07484453800-a1.jpg?ts=1726823502036"
+    },
+    {
+        "id": 20,
+        "name": "LEATHER EFFECT JACKET WITH HOOD",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/19dc/a507/7189427eafb6/e90401c5b5c1/05320409800-a1/05320409800-a1.jpg?ts=1729682794225"
+    },
+    {
+        "id": 21,
+        "name": "RELAXED FIT OVERSHIRT",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/05e4/a70f/97f64296b95f/2127e4e73b2e/00706310800-a1/00706310800-a1.jpg?ts=1729701138087"
+    },
+    {
+        "id": 22,
+        "name": "RELAXED FIT OVERSHIRT",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/7196/19df/92b14b0b9893/2e15e7cff3f0/00706310801-a1/00706310801-a1.jpg?ts=1729672551781"
+    },
+    {
+        "id": 23,
+        "name": "WATER-REPELLENT PUFFER GILET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/b880/9096/251c4441b0fa/de0ea3c1952e/08281498800-a1/08281498800-a1.jpg?ts=1729702040137"
+    },
+    {
+        "id": 24,
+        "name": "SUEDE LEATHER JACKET",
+        "price": 4490000,
+        "imagePath": "https://static.zara.net/assets/public/13d6/12ea/b84d4721bda8/a7b61816d2fd/05129503401-a4/05129503401-a4.jpg?ts=1729788125682"
+    },
+    {
+        "id": 25,
+        "name": "WAXED-EFFECT JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/e01c/013c/b1434e148b87/99e452014bed/07563502405-a1/07563502405-a1.jpg?ts=1729683896171"
+    },
+    {
+        "id": 26,
+        "name": "DENIM OVERSHIRT WITH POCKETS",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/49f4/1c40/b816406ea77d/fc7c1cc875a7/04048337407-a1/04048337407-a1.jpg?ts=1729682829752"
+    },
+    {
+        "id": 27,
+        "name": "ZIP-UP WOOL GILET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/a5e7/cfaf/3aa94a8c9583/5f756ddd5f65/01437333401-a1/01437333401-a1.jpg?ts=1729856985261"
+    },
+    {
+        "id": 28,
+        "name": "100% FEATHER DOWN PUFFER JACKET",
+        "price": 2290000,
+        "imagePath": "https://static.zara.net/assets/public/d1de/3b1e/93cf4c0dbb13/1a7276d72157/03286520401-a1/03286520401-a1.jpg?ts=1729683895727"
+    },
+    {
+        "id": 29,
+        "name": "MATCHING COLLAR JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/516d/c4a5/c6354fbab52f/b3a0e9a18092/03286505400-a1/03286505400-a1.jpg?ts=1729683893312"
+    },
+    {
+        "id": 30,
+        "name": "TEXTURED COMFORT OVERSHIRT",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/dd31/0b7d/854342b39036/f07626aa19c4/07484578800-a4/07484578800-a4.jpg?ts=1724231510543"
+    },
+    {
+        "id": 31,
+        "name": "TEXTURED COMFORT OVERSHIRT",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/2f95/fee9/dda9492eb4e2/60905326cdc7/07484578800-e1/07484578800-e1.jpg?ts=1724168975726"
+    },
+    {
+        "id": 32,
+        "name": "TEXTURED COMFORT OVERSHIRT",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/1277/674f/86df49e5b84d/3d321df0f85e/07484578251-e1/07484578251-e1.jpg?ts=1724169578632"
+    },
+    {
+        "id": 33,
+        "name": "TEXTURED COMFORT OVERSHIRT",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/02c1/fd28/461345ffb4eb/54a0d7af872a/07484578712-e1/07484578712-e1.jpg?ts=1724168820489"
+    },
+    {
+        "id": 34,
+        "name": "TEXTURED COMFORT OVERSHIRT",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/58c3/f880/3643413484f8/14d380b4a3d1/07484578515-e1/07484578515-e1.jpg?ts=1724168814436"
+    },
+    {
+        "id": 35,
+        "name": "100% LINEN CROPPED TRENCH COAT",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/bbd0/0005/b4b64e03983b/8a5aa20ef0b7/00706510800-a1/00706510800-a1.jpg?ts=1718808168362"
+    },
+    {
+        "id": 36,
+        "name": "LIGHTWEIGHT BOMBER JACKET",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/02be/e641/bbe34da98544/d4661ada5358/04302400401-e1/04302400401-e1.jpg?ts=1725544896287"
+    },
+    {
+        "id": 37,
+        "name": "COTTON BOMBER JACKET",
+        "price": 1090000,
+        "imagePath": "https://static.zara.net/assets/public/d640/a092/249c45e99039/06bd1599a194/06987354811-a1/06987354811-a1.jpg?ts=1721812219393"
+    },
+    {
+        "id": 38,
+        "name": "FADED PRINT QUILTED GILET",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/6a12/96db/3a004c84aa5c/b9c38d3104c7/05520302320-a1/05520302320-a1.jpg?ts=1723021008555"
+    },
+    {
+        "id": 39,
+        "name": "DENIM WAISTCOAT WITH POCKETS",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/48f6/a1c8/4b12439faac6/49da5e8577cc/01538343716-a1/01538343716-a1.jpg?ts=1726224090061"
+    },
+    {
+        "id": 40,
+        "name": "COMFORT OVERSHIRT",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/7583/569e/1d544599bbbe/9ee50dad2a87/00706475250-e1/00706475250-e1.jpg?ts=1722411525914"
+    },
+    {
+        "id": 41,
+        "name": "COMFORT OVERSHIRT",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/aac6/ddea/92c34a1f8adb/addc43178213/07484878505-e1/07484878505-e1.jpg?ts=1724833284452"
+    },
+    {
+        "id": 42,
+        "name": "BOXY FIT OVERSHIRT",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/25a3/de48/dd864987aa61/f12106d8f461/06987403809-000-a1/06987403809-000-a1.jpg?ts=1725469452236"
+    },
+    {
+        "id": 43,
+        "name": "BOXY FIT OVERSHIRT",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/cc7a/555e/3d914870aaa2/311e58821e3e/06987403809-e1/06987403809-e1.jpg?ts=1722954769521"
+    },
+    {
+        "id": 44,
+        "name": "BOXY FIT OVERSHIRT",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/ea97/77ae/854a45fbb609/3c7a97fc31c2/06987403051-e1/06987403051-e1.jpg?ts=1724160488796"
+    },
+    {
+        "id": 45,
+        "name": "CONTRAST TECHNICAL JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/c0ea/29c7/d9d14b5cab7e/fbc0dd928f3c/00155055500-a1/00155055500-a1.jpg?ts=1723028605160"
+    },
+    {
+        "id": 46,
+        "name": "TECHNICAL JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/a943/e281/4c5e478d8d5e/2df205a6fdba/07380380711-a1/07380380711-a1.jpg?ts=1723636078033"
+    },
+    {
+        "id": 47,
+        "name": "TECHNICAL JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/b936/98ed/abda403c8cac/e6ce577c99c2/00706516811-a4/00706516811-a4.jpg?ts=1726666516155"
+    },
+    {
+        "id": 48,
+        "name": "PADDED TECHNICAL JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/cfce/ff1b/131749c18be1/f0d17fe07b6d/01437501704-a1/01437501704-a1.jpg?ts=1727165045870"
+    },
+    {
+        "id": 49,
+        "name": "JACKET WITH CONTRAST COLLAR",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/99e5/85ce/7b15495584e7/abb9dc5a034f/03715416922-a1/03715416922-a1.jpg?ts=1726652050154"
+    },
+    {
+        "id": 50,
+        "name": "CONTRAST COLLAR JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/24a0/6243/f69e4190b0e4/fa7dd02f3ed1/06987322743-a1/06987322743-a1.jpg?ts=1725626151661"
+    },
+    {
+        "id": 51,
+        "name": "CONTRAST COLLAR JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/1448/3d27/9305451f95a4/828be01d9e80/06987322832-a1/06987322832-a1.jpg?ts=1725619270376"
+    },
+    {
+        "id": 52,
+        "name": "JACKET WITH CONTRAST COLLAR",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/1b2a/75bd/64fd44c6ade8/f95675984127/01538320800-a1/01538320800-a1.jpg?ts=1722598901585"
+    },
+    {
+        "id": 53,
+        "name": "LEATHER-EFFECT PARKA WITH POCKETS",
+        "price": 2190000,
+        "imagePath": "https://static.zara.net/assets/public/bae8/88df/1e6444fbbbdc/d190b2288e0c/03715412800-p.m3u8?ts=1727435172322"
+    },
+    {
+        "id": 54,
+        "name": "FADED-EFFECT LEATHER JACKET",
+        "price": 2890000,
+        "imagePath": "https://static.zara.net/assets/public/ad62/9901/e13e40beb43d/bd1ed98798c2/05388400803-a1/05388400803-a1.jpg?ts=1727254842768"
+    },
+    {
+        "id": 55,
+        "name": "SPRAY EFFECT LEATHER BIKER JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/5f03/7ddc/df5d458b91ea/e095b01e5752/05320408407-a1/05320408407-a1.jpg?ts=1726652050161"
+    },
+    {
+        "id": 56,
+        "name": "QUILTED BOMBER JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/01c1/03bc/89e24142adee/443c366df114/03918621806-a1/03918621806-a1.jpg?ts=1726649287517"
+    },
+    {
+        "id": 57,
+        "name": "QUILTED BOMBER JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/6a2e/420e/21f242f2bedf/6228e46fb67e/03918622800-a1/03918622800-a1.jpg?ts=1726649290696"
+    },
+    {
+        "id": 58,
+        "name": "QUILTED BOMBER JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/43c2/b6ac/e7694bdf823e/dcb73dea8445/03046550712-a1/03046550712-a1.jpg?ts=1727966010324"
+    },
+    {
+        "id": 59,
+        "name": "PADDED CORDUROY OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/9b91/2665/1daa440996de/d202074d973c/01063383802-a1/01063383802-a1.jpg?ts=1727165052432"
+    },
+    {
+        "id": 60,
+        "name": "PADDED CORDUROY OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/f90d/7518/aa3b4d8bb78d/ad3ba4f604a2/01063383802-e1/01063383802-e1.jpg?ts=1727256108161"
+    },
+    {
+        "id": 61,
+        "name": "PADDED CORDUROY OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/d9ce/0a22/c04f4515aa10/2670c1c3a461/01063383500-e1/01063383500-e1.jpg?ts=1727256092039"
+    },
+    {
+        "id": 62,
+        "name": "PADDED CORDUROY OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/970e/bd89/6e7d4c389147/cfe73c5f1111/01063383712-e1/01063383712-e1.jpg?ts=1727256094649"
+    },
+    {
+        "id": 63,
+        "name": "WASHED LEATHER BIKER JACKET",
+        "price": 2890000,
+        "imagePath": "https://static.zara.net/assets/public/8a3c/23c9/5e2c4877aa6d/0454542b67e3/04720401803-a1/04720401803-a1.jpg?ts=1726667745078"
+    },
+    {
+        "id": 64,
+        "name": "UTILITY JACKET WITH POCKETS",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/3075/efdd/1e9f4c5681fd/a13dfbffce55/03715410802-a1/03715410802-a1.jpg?ts=1724240415522"
+    },
+    {
+        "id": 65,
+        "name": "WASHED HOODED JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/37df/cc24/0d4748cbb331/fd284577e39a/06987353811-a1/06987353811-a1.jpg?ts=1724234831243"
+    },
+    {
+        "id": 66,
+        "name": "PADDED REGULAR FIT OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/b7a6/4f9b/e09b48819f83/99d8f926f761/08281272500-a1/08281272500-a1.jpg?ts=1727250343626"
+    },
+    {
+        "id": 67,
+        "name": "PADDED REGULAR FIT OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/d0d3/d20a/0f57475cb13a/218f975c7cab/08281272401-a1/08281272401-a1.jpg?ts=1727165047230"
+    },
+    {
+        "id": 68,
+        "name": "SUEDE LEATHER OVERSHIRT",
+        "price": 3390000,
+        "imagePath": "https://static.zara.net/assets/public/4430/fdf7/cc7a48cf89f4/161c9f349b5d/05129400505-a1/05129400505-a1.jpg?ts=1727696469737"
+    },
+    {
+        "id": 69,
+        "name": "COTTON - HEMP DENIM OVERSHIRT",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/931a/c882/3f7147718f9d/88e4ea21f9da/03991365052-a1/03991365052-a1.jpg?ts=1724406988906"
+    },
+    {
+        "id": 70,
+        "name": "BOXY FIT DENIM JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/4193/7ec0/7f464aac8ec5/7b50e2322f55/04470390400-a1/04470390400-a1.jpg?ts=1727341356459"
+    },
+    {
+        "id": 71,
+        "name": "DENIM BOXY FIT OVERSHIRT",
+        "price": 690000,
+        "imagePath": "https://static.zara.net/assets/public/c0cc/0627/aff8481a9f78/3bd9c31491d6/01820326427-a1/01820326427-a1.jpg?ts=1726670683841"
+    },
+    {
+        "id": 72,
+        "name": "DENIM JACKET WITH CONTRAST COLLAR",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/d3b0/ea6e/064a490c84a5/6109151fe3d0/01538332400-a1/01538332400-a1.jpg?ts=1726820640960"
+    },
+    {
+        "id": 73,
+        "name": "BOXY FIT DENIM JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/89f8/cac5/89d744f7bfc5/69772696ab85/01538386427-a1/01538386427-a1.jpg?ts=1728030760385"
+    },
+    {
+        "id": 74,
+        "name": "DENIM JACKET WITH POCKETS",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/1804/fbe4/630141da9d26/d70e2ea594fd/01538375716-a1/01538375716-a1.jpg?ts=1726820632827"
+    },
+    {
+        "id": 75,
+        "name": "CONTRAST COLLAR DENIM JACKET",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/7371/8ee3/15394e98bec7/1794fd2b9136/01538373400-a1/01538373400-a1.jpg?ts=1727854374454"
+    },
+    {
+        "id": 76,
+        "name": "RELAXED FIT DENIM JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/17bc/c757/dc7a47a680fe/de6d8a4542be/08062386427-a1/08062386427-a1.jpg?ts=1728030744951"
+    },
+    {
+        "id": 77,
+        "name": "BOXY FIT DENIM JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/a3b4/3e5e/57094300ad55/d7337c7bbf42/01538336800-a4/01538336800-a4.jpg?ts=1727965734959"
+    },
+    {
+        "id": 78,
+        "name": "WATER-REPELLENT HOODED JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/e1ae/2c37/aac4484cb491/6dbf6972f791/08281406506-a1/08281406506-a1.jpg?ts=1726820311343"
+    },
+    {
+        "id": 79,
+        "name": "WATER-REPELLENT HOODED JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/a5dc/2385/3e0d4ead8d82/817125176df9/08281406800-a1/08281406800-a1.jpg?ts=1726820313005"
+    },
+    {
+        "id": 80,
+        "name": "GEOMETRIC JACQUARD OVERSHIRT",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/678a/7e2b/fdab46e68418/c0ca4786f17b/06861250710-p/06861250710-p.jpg?ts=1720625433976"
+    },
+    {
+        "id": 81,
+        "name": "REVERSIBLE BOMBER JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/b07a/4002/446445818a20/22367fa9a69f/00993304802-a5/00993304802-a5.jpg?ts=1726671689730"
+    },
+    {
+        "id": 82,
+        "name": "REVERSIBLE BOMBER JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/f73f/1126/5fcf4b5d8474/28032c2e15c4/00993301800-a1/00993301800-a1.jpg?ts=1726224091539"
+    },
+    {
+        "id": 83,
+        "name": "REVERSIBLE BOMBER JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/551b/8007/e0844e488580/002e63ac5582/00993304802-a1/00993304802-a1.jpg?ts=1726671690018"
+    },
+    {
+        "id": 84,
+        "name": "LEATHER EFFECT PUFFER JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/b69a/951d/40964d899b62/fe666450ac41/08281313800-a1/08281313800-a1.jpg?ts=1727429980532"
+    },
+    {
+        "id": 85,
+        "name": "COLOUR BLOCK PUFFER JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/d7f7/4bf6/92444bbe9294/3e779bc3dd87/06985320800-a1/06985320800-a1.jpg?ts=1725019421700"
+    },
+    {
+        "id": 86,
+        "name": "WATER-REPELLENT PADDED JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/edae/2f8b/0ab243859539/c82cf6d4e680/06985322800-a1/06985322800-a1.jpg?ts=1726217700883"
+    },
+    {
+        "id": 87,
+        "name": "WATER-REPELLENT PADDED JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/22c1/6058/211e4e06a82a/a5ac1c053d6f/06985322639-a6/06985322639-a6.jpg?ts=1726217703478"
+    },
+    {
+        "id": 88,
+        "name": "VINYL FINISH JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/10b8/eea2/06c443ba8ffc/1a1cfaf58406/05320405305-a1/05320405305-a1.jpg?ts=1724755457853"
+    },
+    {
+        "id": 89,
+        "name": "ABSTRACT PRINT JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/13ba/01fa/10524ca290af/29e6deb8ec2f/08281481710-a1/08281481710-a1.jpg?ts=1726217713420"
+    },
+    {
+        "id": 90,
+        "name": "PUFFER GILET",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/dccb/29bd/06214cdfb414/724107d76411/03286513800-a4/03286513800-a4.jpg?ts=1726217612729"
+    },
+    {
+        "id": 91,
+        "name": "LEATHER JACKET - LIMITED EDITION",
+        "price": 3890000,
+        "imagePath": "https://static.zara.net/assets/public/e26f/660b/f4764752adaf/521ebbe6b824/02521651500-a1/02521651500-a1.jpg?ts=1722259210361"
+    },
+    {
+        "id": 92,
+        "name": "FADED CANVAS JACKET - LIMITED EDITION",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/30da/c272/452a4162883f/debbe6f8f2ba/01538364711-a1/01538364711-a1.jpg?ts=1722259223021"
+    },
+    {
+        "id": 93,
+        "name": "CROPPED FIT JACKET - LIMITED EDITION",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/fb2c/1bfd/64fc49c68639/7a4bb3909530/00706110802-a1/00706110802-a1.jpg?ts=1722259222326"
+    },
+    {
+        "id": 94,
+        "name": "DENIM JACKET WITH CONTRAST COLLAR - LIMITED EDITION",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/7010/a812/cdeb45159391/376f3789df80/00840330802-a4/00840330802-a4.jpg?ts=1722259218283"
+    },
+    {
+        "id": 95,
+        "name": "DENIM JACKET WITH CONTRAST COLLAR - LIMITED EDITION",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/ed81/cac0/fc8d4ffbb64f/0fe26963f767/00840330802-a1/00840330802-a1.jpg?ts=1722259220476"
+    },
+    {
+        "id": 96,
+        "name": "TECHNICAL JACKET - LIMITED EDITION",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/28f3/fd41/18694487bcff/6d845c10dc2b/07627303401-a1/07627303401-a1.jpg?ts=1722259221390"
+    },
+    {
+        "id": 97,
+        "name": "FAUX LEATHER BIKER JACKET",
+        "price": 1290000,
+        "imagePath": "https://static.zara.net/assets/public/8316/3fcd/0eb34d7cabf6/c5dd91f89aa0/04391400800-a1/04391400800-a1.jpg?ts=1721214979905"
+    },
+    {
+        "id": 98,
+        "name": "STITCHED DENIM WAISTCOAT",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/eb72/a2bc/590b4973b494/e6af787c04a7/01538349400-a4/01538349400-a4.jpg?ts=1726825207607"
+    },
+    {
+        "id": 99,
+        "name": "STITCHED DENIM WAISTCOAT",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/a48b/4fa8/2f28405a9711/6cc96c1847e8/01538349400-a1/01538349400-a1.jpg?ts=1726825207152"
+    },
+    {
+        "id": 100,
+        "name": "FAUX SUEDE CONTRAST JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/d5d4/f016/ac67468b8fb0/509d78ccf202/06318460800-a1/06318460800-a1.jpg?ts=1727186190044"
+    },
+    {
+        "id": 101,
+        "name": "FAUX SUEDE CONTRAST JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/c69c/2f01/3d974c56bf6b/e74c4f0f7fb2/06318460800-e1/06318460800-e1.jpg?ts=1727256176524"
+    },
+    {
+        "id": 102,
+        "name": "FAUX SUEDE CONTRAST JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/e9e9/dce9/502e496693df/99b804b5db90/06318460806-e1/06318460806-e1.jpg?ts=1727256187017"
+    },
+    {
+        "id": 103,
+        "name": "FAUX SUEDE CONTRAST JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/17d2/d50f/517f42759b59/dc716aaf6961/06318460505-e1/06318460505-e1.jpg?ts=1727256193995"
+    },
+    {
+        "id": 104,
+        "name": "LEATHER OVERSHIRT - LIMITED EDITION",
+        "price": 3890000,
+        "imagePath": "https://static.zara.net/assets/public/c007/bc25/e13f43eb974a/efd51c942104/02521120725-a1/02521120725-a1.jpg?ts=1722259217470"
+    },
+    {
+        "id": 105,
+        "name": "LEATHER POLO OVERSHIRT - LIMITED EDITION",
+        "price": 3390000,
+        "imagePath": "https://static.zara.net/assets/public/32a4/7e0f/50e548d1adcc/95a7d8f787e0/02521652800-a1/02521652800-a1.jpg?ts=1728313018773"
+    },
+    {
+        "id": 106,
+        "name": "COTTON BOMBER JACKET",
+        "price": 1090000,
+        "imagePath": "https://static.zara.net/assets/public/a8a5/4288/d0764a2da0b5/9d0b3eae017d/06987354800-a1/06987354800-a1.jpg?ts=1726217700999"
+    },
+    {
+        "id": 107,
+        "name": "OVERSIZE FIT BOMBER JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/0107/1d71/fdc04cc598f4/f3f5eeae5e23/08281407505-a1/08281407505-a1.jpg?ts=1727351113918"
+    },
+    {
+        "id": 108,
+        "name": "CROPPED FIT TECHNICAL JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/7b3c/35cf/458f42c8a4aa/bd38ce298416/03715414800-a1/03715414800-a1.jpg?ts=1727351113868"
+    },
+    {
+        "id": 109,
+        "name": "WATER-REPELLENT BOMBER JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/af83/0c56/7b684ba3b165/91a59abc9c00/06985401800-a5/06985401800-a5.jpg?ts=1726217703362"
+    },
+    {
+        "id": 110,
+        "name": "CONTRAST BOMBER JACKET",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/cf9d/5675/070c4d5e9672/87a65d258e07/04092309712-a5/04092309712-a5.jpg?ts=1726216984497"
+    },
+    {
+        "id": 111,
+        "name": "TWILL TEXTURED JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/7234/292b/aef947609961/da6a036b33e8/03286300401-a1/03286300401-a1.jpg?ts=1726212056197"
+    },
+    {
+        "id": 112,
+        "name": "JACQUARD DENIM JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/0318/b708/b83f4688a4ee/b8271c402af3/01538393800-a1/01538393800-a1.jpg?ts=1724226426144"
+    },
+    {
+        "id": 113,
+        "name": "SOFT OVERSHIRT",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/974d/d09f/a9f7426b9af1/a492aa46977a/00706430800-a1/00706430800-a1.jpg?ts=1720619173584"
+    },
+    {
+        "id": 114,
+        "name": "SOFT OVERSHIRT",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/6ca6/9e97/e3d94c649361/05dd5dbffd21/00706430800-e1/00706430800-e1.jpg?ts=1727178060598"
+    },
+    {
+        "id": 115,
+        "name": "LEATHER EFFECT JACKET",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/8b49/ae30/73314aed89a1/8ab90c28e4c4/08281417700-a1/08281417700-a1.jpg?ts=1726667746014"
+    },
+    {
+        "id": 116,
+        "name": "FAUX SUEDE BOMBER JACKET",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/2875/609a/7e374aeea6e8/a1d81fbdb054/08574700710-a1/08574700710-a1.jpg?ts=1726227434664"
+    },
+    {
+        "id": 117,
+        "name": "FAUX SUEDE BOMBER JACKET",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/eed7/5c8c/38d543d09e98/f5c07753f09b/08574700710-e1/08574700710-e1.jpg?ts=1726222614848"
+    },
+    {
+        "id": 118,
+        "name": "WAXED-EFFECT TECHNICAL JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/7f42/a1d4/ac0649d2b4db/95e6756b2ee2/03046318500-a1/03046318500-a1.jpg?ts=1724321670082"
+    },
+    {
+        "id": 119,
+        "name": "100% DOWN PUFFER JACKET",
+        "price": 2290000,
+        "imagePath": "https://static.zara.net/assets/public/e3a3/1e3b/e5464c2ca679/d98209141c7d/03411411800-a4/03411411800-a4.jpg?ts=1727429979239"
+    },
+    {
+        "id": 120,
+        "name": "100% DOWN PUFFER JACKET",
+        "price": 2290000,
+        "imagePath": "https://static.zara.net/assets/public/bce9/0ecf/554845a2b176/6e09acaf40d0/03411411529-a1/03411411529-a1.jpg?ts=1727429981420"
+    },
+    {
+        "id": 121,
+        "name": "100% DOWN PUFFER JACKET",
+        "price": 2290000,
+        "imagePath": "https://static.zara.net/assets/public/b43c/9b21/5e8e40d59204/a6c477a74609/03411411800-a1/03411411800-a1.jpg?ts=1727429979595"
+    },
+    {
+        "id": 122,
+        "name": "COLOUR BLOCK TECHNICAL JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/de7a/be24/bedf472c80b3/a6650c079249/01732306807-a1/01732306807-a1.jpg?ts=1726219441711"
+    },
+    {
+        "id": 123,
+        "name": "COLOUR BLOCK TECHNICAL JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/feac/fc27/736c40199372/430dcf693914/01732306711-a1/01732306711-a1.jpg?ts=1726216988796"
+    },
+    {
+        "id": 124,
+        "name": "TIE-DYE WINDBREAKER",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/05f6/17ba/5f7249219eb9/24c6617b847d/06096305945-a1/06096305945-a1.jpg?ts=1723201631678"
+    },
+    {
+        "id": 125,
+        "name": "DENIM JACKET WITH CONTRAST COLLAR",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/af83/f09e/c73c45f4a108/0628aaff02bd/01538334716-a1/01538334716-a1.jpg?ts=1726224091171"
+    },
+    {
+        "id": 126,
+        "name": "COMBINED DENIM JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/2ae0/3850/1ebc4e8ab9f8/63ba6c56c693/05575384800-a1/05575384800-a1.jpg?ts=1727190460685"
+    },
+    {
+        "id": 127,
+        "name": "LIGHTWEIGHT PUFFER JACKET",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/c09e/43b8/3b7744cb80ca/42a0eea5c3f9/04302537800-e1/04302537800-e1.jpg?ts=1723791709781"
+    },
+    {
+        "id": 128,
+        "name": "LIGHTWEIGHT PUFFER JACKET",
+        "price": 890000,
+        "imagePath": "https://static.zara.net/assets/public/defb/7a21/510c4b22bab4/cb04de244798/04302537832-e1/04302537832-e1.jpg?ts=1723791708156"
+    },
+    {
+        "id": 129,
+        "name": "OVERSHIRT WITH POCKETS",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/1f2d/4bbe/593540f4949d/33b78d201818/06786390507-a1/06786390507-a1.jpg?ts=1724834646479"
+    },
+    {
+        "id": 130,
+        "name": "OVERSHIRT WITH POCKETS",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/d359/c7c2/09184219a912/ccc41dd4ef1f/06786390800-e1/06786390800-e1.jpg?ts=1724745235976"
+    },
+    {
+        "id": 131,
+        "name": "OVERSHIRT WITH POCKETS",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/c239/3a0c/8fb84af3957d/482e88b5eeb8/06786390507-e1/06786390507-e1.jpg?ts=1725358857916"
+    },
+    {
+        "id": 132,
+        "name": "OVERSHIRT WITH POCKETS",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/c066/4f45/710f4d209f5e/5778fd6f8013/06786390806-e1/06786390806-e1.jpg?ts=1724771592199"
+    },
+    {
+        "id": 133,
+        "name": "LEATHER JACKET WITH POCKETS",
+        "price": 3890000,
+        "imagePath": "https://static.zara.net/assets/public/fa94/d33a/5c1344b8953b/e0a595c9b718/09953130700-a4/09953130700-a4.jpg?ts=1728313063762"
+    },
+    {
+        "id": 134,
+        "name": "LEATHER JACKET",
+        "price": 2890000,
+        "imagePath": "https://static.zara.net/assets/public/71e7/5bf9/7d6b4f30a768/93bb93f44b1f/05388302800-a1/05388302800-a1.jpg?ts=1726158471023"
+    },
+    {
+        "id": 135,
+        "name": "FAUX SUEDE JACKET",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/4167/090a/592549a6b59b/8f5eba5a8c6c/06318400552-a1/06318400552-a1.jpg?ts=1726227434108"
+    },
+    {
+        "id": 136,
+        "name": "FAUX SUEDE JACKET",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/c844/b76b/81c048268882/f68595cd0d9a/06318400552-e1/06318400552-e1.jpg?ts=1726211261328"
+    },
+    {
+        "id": 137,
+        "name": "RIBBED JACKET WITH POCKETS",
+        "price": 990000,
+        "imagePath": "https://static.zara.net/assets/public/56af/0517/dfbc437dacfd/1329b545c964/00362304712-a1/00362304712-a1.jpg?ts=1724403818837"
+    },
+    {
+        "id": 138,
+        "name": "TEXTURED BOXY FIT JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/9307/0a69/98c9431d8e32/d524a66054f3/01437304800-a1/01437304800-a1.jpg?ts=1724321662957"
+    },
+    {
+        "id": 139,
+        "name": "COLOUR BLOCK TECHNICAL JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/a6cd/e08b/ed0a464588c5/1d0f660435c0/03918456800-a1/03918456800-a1.jpg?ts=1726156735281"
+    },
+    {
+        "id": 140,
+        "name": "COMFORT TECHNICAL JACKET",
+        "price": 1190000,
+        "imagePath": "https://static.zara.net/assets/public/4505/e29e/3243480abff5/2190a7123710/01437311800-a1/01437311800-a1.jpg?ts=1727250342345"
+    },
+    {
+        "id": 141,
+        "name": "SHORT PARKA WITH POCKETS",
+        "price": 2190000,
+        "imagePath": "https://static.zara.net/assets/public/5fbe/cd2a/87ce4bd28503/20b92dfd255c/00706515807-a1/00706515807-a1.jpg?ts=1726645335900"
+    },
+    {
+        "id": 142,
+        "name": "TECHNICAL BOXY FIT PARKA",
+        "price": 1990000,
+        "imagePath": "https://static.zara.net/assets/public/ca73/10a7/21eb4f1e8050/e31a6776f865/05854291800-a4/05854291800-a4.jpg?ts=1726825217514"
+    },
+    {
+        "id": 143,
+        "name": "FAUX LEATHER BOMBER JACKET",
+        "price": 1690000,
+        "imagePath": "https://static.zara.net/assets/public/3ed5/db95/9ec14c9fa5fb/90bf9f0f956a/03548291717-a4/03548291717-a4.jpg?ts=1726645342268"
+    },
+    {
+        "id": 144,
+        "name": "LEATHER EFFECT JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/dfea/fc9c/1d174ea99ea9/83a5c05fc85f/00155291800-a1/00155291800-a1.jpg?ts=1726217613731"
+    },
+    {
+        "id": 145,
+        "name": "LEATHER EFFECT JACKET",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/34be/4ffb/06084e0e840f/6e9e767394ae/00155291500-a1/00155291500-a1.jpg?ts=1726217606516"
+    },
+    {
+        "id": 146,
+        "name": "",
+        "price": null,
+        "imagePath": "https://static.zara.net/assets/public/5a6c/bc61/c8914dd6a9c1/81a9228e6865/M0000000193-ult1/M0000000193-ult1.small.jpg?ts=1722412037565"
+    },
+    {
+        "id": 147,
+        "name": "TECHNICAL JACKET WITH POCKETS",
+        "price": 1390000,
+        "imagePath": "https://static.zara.net/assets/public/9708/1894/88974092ba27/376493f27732/04695403401-a1/04695403401-a1.jpg?ts=1719832136994"
+    }
+]
