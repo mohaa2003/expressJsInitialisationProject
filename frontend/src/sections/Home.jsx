@@ -1,9 +1,11 @@
 import "./home.css";
 import { FaStar } from "react-icons/fa";
 import { MdOutlineSell } from "react-icons/md";
+import Popular from "./Popular";
 
 const Home = () => {
   return (
+    <>
     <main className="w-full">
         <div className="w-2/3 md:w-1/2 p-8">
           <h2 className="text-[4rem] font-bold">Degital Shopping Hub Junction</h2>
@@ -27,6 +29,8 @@ const Home = () => {
           </div>
         </div>
     </main>
+    <Popular/>
+    </>
   )
 }
 

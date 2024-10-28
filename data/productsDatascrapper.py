@@ -13,14 +13,20 @@ if(response.status_code == 200):
         for element in product.get("elements",[]):
             for component in element.get("commercialComponents",[]):
                 id = id +1
-                myElement = {"id":id,"name":component.get("name",{}),"price":component.get("price")}
+                oldPrice = component.get("price")
+                if oldPrice is not None:
+                    oldPrice = float(oldPrice)
+                else:
+                    oldPrice = 0.0
+                newPrice = oldPrice - oldPrice / 10.0
+                myElement = {"id":id,"name":component.get("name",{}),"oldPrice":oldPrice,"newPrice":newPrice}
                 detail = component.get("detail",{})
                 color = detail.get("colors",[])[0]
                 x = color.get("xmedia",[])[0]
                 extra = x.get("extraInfo",{})
                 myElement.update({"imagePath":extra.get("deliveryUrl","")})
                 productList.append(myElement)
-    with open("data/products.json","a") as file:
+    with open("data/products.json","w") as file:
         json.dump(productList,file,indent=4) 
     # print(productList)   
 else:
