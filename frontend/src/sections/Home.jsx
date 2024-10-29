@@ -2,6 +2,7 @@ import "./home.css";
 import { FaStar } from "react-icons/fa";
 import { MdOutlineSell } from "react-icons/md";
 import Popular from "./Popular";
+import Latest from "./Latest";
 
 const Home = () => {
   return (
@@ -30,6 +31,7 @@ const Home = () => {
         </div>
     </main>
     <Popular/>
+    <Latest/>
     </>
   )
 }
