@@ -3,6 +3,8 @@ import { FaStar } from "react-icons/fa";
 import { MdOutlineSell } from "react-icons/md";
 import Popular from "./Popular";
 import Latest from "./Latest";
+import SummerSale from "./SummerSale";
+import Newsletter from "./Newsletter";
 
 const Home = () => {
   return (
@@ -31,7 +33,9 @@ const Home = () => {
         </div>
     </main>
     <Popular/>
+    <SummerSale/>
     <Latest/>
+    <Newsletter/>
     </>
   )
 }
