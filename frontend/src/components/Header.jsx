@@ -16,7 +16,7 @@ const Header = () => {
   return (
     <header className="flex justify-between items-center p-2 container px-5">
         <Link to={"/"}>
-            <img className="" src="/logo.jpg" alt="logo" width={110} />
+            <img src="/logo.jpg" alt="logo" width={110} />
         </Link>
         <Nav openedmobileNav={openedmobileNav}/>
         {/* logout and buttons */}
