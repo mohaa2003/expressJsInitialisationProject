@@ -47,7 +47,7 @@ const Nav = ({openedmobileNav}) => {
 
         {/* Nav for less than medium size */}
 
-        <nav className={"md:hidden fixed top-[80px] border-[1px] border-black bg-white px-16 py-8 rounded-[20px] transition-all duration-500 " + (openedmobileNav? "left-[50vw]":"left-[110%]")}>
+        <nav className={"md:hidden fixed z-20 top-[80px] border-[1px] border-black bg-white px-16 py-8 rounded-[20px] transition-all duration-500 " + (openedmobileNav? "left-[50vw]":"left-[110%]")}>
             <ul className="flex flex-col justify-center items-center gap-[30px]">
                 <li>
                     <NavLink to={'/'} className={({isActive}) => isActive? "active" : "inactive"}>

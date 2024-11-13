@@ -4,12 +4,17 @@ import { SlBasket } from "react-icons/sl";
 import { TbLogout2 } from "react-icons/tb";
 import { AiOutlineMenu } from "react-icons/ai";
 import { IoMdClose } from "react-icons/io";
-import { useState } from "react";
+import { useContext, useState } from "react";
+import { blurContext } from "../contexts/blurContext";
 
 
 const Header = () => {
-  const [openedmobileNav,setOpenedmobileNav] = useState(false);
-  let openmobileNav = ()=>{
+
+  const {openedmobileNav,setOpenedmobileNav} = useContext(blurContext);
+  console.log("openedmobileNav:", openedmobileNav);
+
+
+  const openmobileNav = ()=>{
     setOpenedmobileNav(!openedmobileNav)
   }
 
@@ -18,6 +23,7 @@ const Header = () => {
         <Link to={"/"}>
             <img src="/logo.jpg" alt="logo" width={110} />
         </Link>
+        
         <Nav openedmobileNav={openedmobileNav}/>
         {/* logout and buttons */}
         <div className="flex justify-between items-center gap-5">
@@ -33,7 +39,7 @@ const Header = () => {
                   </div>
                 </div>
             </Link>
-            <Link to={"/"}>
+            <Link to={"/login"}>
                 <div className="p-2 bg-lime-600 text-white rounded-[20px] flex justify-between items-center gap-2">
                         <TbLogout2/>  
                     Logout
@@ -44,5 +50,4 @@ const Header = () => {
     
   )
 }
-
 export default Header

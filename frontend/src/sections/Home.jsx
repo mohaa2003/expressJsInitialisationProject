@@ -5,10 +5,11 @@ import Popular from "./Popular";
 import Latest from "./Latest";
 import SummerSale from "./SummerSale";
 import Newsletter from "./Newsletter";
+import BlurContext from "../contexts/blurContext";
 
 const Home = () => {
   return (
-    <>
+    <BlurContext>
     <main className="w-full">
         <div className="w-2/3 md:w-1/2 p-8">
           <h2 className="text-[4rem] font-bold">Degital Shopping Hub Junction</h2>
@@ -36,7 +37,7 @@ const Home = () => {
     <SummerSale/>
     <Latest/>
     <Newsletter/>
-    </>
+    </BlurContext>
   )
 }
 

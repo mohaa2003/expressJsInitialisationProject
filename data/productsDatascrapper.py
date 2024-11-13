@@ -5,7 +5,7 @@
 # }
 
 # response = requests.get("https://www.zara.com/dz/en/category/2426193/products?ajax=true",headers=headers)
-# id = 0
+# id = 1104
 # productList = []
 # if(response.status_code == 200):
 #     data = response.json()
@@ -47,7 +47,7 @@ headers = {
 }
 
 response = requests.get("https://www.zara.com/dz/en/category/2436316/products?ajax=true",headers=headers)
-id = 0
+id = 1864
 productList = []
 if(response.status_code == 200):
     data = response.json()
