@@ -11,7 +11,6 @@ import { blurContext } from "../contexts/blurContext";
 const Header = () => {
 
   const {openedmobileNav,setOpenedmobileNav} = useContext(blurContext);
-  console.log("openedmobileNav:", openedmobileNav);
 
 
   const openmobileNav = ()=>{
